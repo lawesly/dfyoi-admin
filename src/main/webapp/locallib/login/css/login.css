@@ -30,8 +30,6 @@ input.input-error:focus{background-color: transparent;}
 }
 
 .main {
-	min-height: 600px;
-	min-width: 1140px;
 	position: relative;
 	z-index: 999;
 	width: 100%;
@@ -47,8 +45,8 @@ input.input-error:focus{background-color: transparent;}
 	height: 100%;
 }
 .login-dom{ position:absolute; width:100%;}
+
 .login {
-	width:590px;
 	margin: 0 auto;
 }
 
